@@ -3,6 +3,19 @@
 
 ![Patty Express Logo](link_to_logo.png)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [GettingStarted](#gettingstarted)
+- [Installation](#installation)
+- [TechnologiesUsed](#technologiesused)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact] (#contact)
+
+
 ## Overview
 
 Patty Express is a practice project for building an online platform that allows users to order fresh burgers online. This project is focused on gaining hands-on experience in web development, specifically in building a frontend for an online food ordering website.
@@ -52,4 +65,10 @@ This project is just for educational practice purposes and does not have a speci
 
 - This practice project was inspired by the idea of creating an online burger ordering platform.
 
+## Contact
 
+If you have any questions or feedback, feel free to reach out:
+- Email: 
+
+    ```bash
+    bhartijayprakash19@gmail.com
