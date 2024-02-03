@@ -24,7 +24,7 @@ Patty Express is a practice project for building an online platform that allows 
 
 - **User-friendly Interface:** Practice creating an intuitive design for a seamless user experience.
 - **Burger Menu:** Explore building a menu with various burger options and descriptions.
-- **Customization:** Implement the ability for users to customize their burger orders.
+
 - **User Accounts:** Learn to set up user accounts for a personalized experience.
 - **Secure Payments:** Understand the concept of integrating secure payment options (for practice only).
 - **Order Tracking:** Experiment with basic order tracking functionality.
