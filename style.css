@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(251, 250, 249);
+
+}
+
+
+
+/* navigation bar */
+.navbar {
+    margin-top: 0.2rem;
+    height: 4.5rem;
+    width: 100vw;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* left div for logo */
+.left {
+    margin-top: 2rem;
+    height: 150px;
+    width: 150px;
+    /* border: 2px solid black; */
+}
+
+
+/* logo image */
+.left img {
+    margin-top: 0.8rem;
+    height: 120px;
+    width: 120px;
+}
+
+
+.navbar .mid ul {
+
+    margin-right: 1rem;
+    margin-left: 55%;
+    display: flex;
+    padding: 0.8rem;
+    width: 600px;
+    align-content: flex-start;
+    gap: 1rem;
+
+}
+
+.navbar .mid ul li {
+
+
+    list-style-type: none;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: black;
+
+}
+
+.navbar .mid ul li:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+/* download app */
+.right .btn {
+    background-color: rgb(228, 72, 85);
+    margin-right: 3rem;
+    height: 3rem;
+    width: 10rem;
+    border-radius: 12px;
+    text-shadow: 1px 1px 0.5px rgb(255, 46, 46);
+    color: white;
+    border: none;
+}
+
+.right .btn:hover {
+    background-color: rgb(137, 24, 24);
+    color: white;
+}
+
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 4rem;
+    padding-top: 10rem;
+    /* position: relative; */
+}
+
+
+/* .centre-heading {
+
+} */
+
+.title {
+    width: 90%;
+
+}
+
+
+.heading {
+    font-size: 2rem;
+    color: black;
+    font-weight: 600;
+
+}
+
+.heading span {
+    color: rgb(228, 72, 85);
+}
+
+.heading-1 {
+    font-size: 1.4rem;
+    color: black;
+}
+
+
+.btn1 {
+    position: absolute;
+}
+
+.centre-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.offers {
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 4rem;
+    left: -8rem;
+    height: auto;
+
+}
+
+.offers img {
+
+    position: absolute;
+    height: 9rem;
+    width: 9rem;
+    top: -1.9rem;
+    left: -2rem;
+    object-fit: cover;
+}
+
+.offers p {
+    font-size: 1.2rem;
+    padding-right: 1rem;
+    padding-left: 3rem;
+    padding-block: 1rem;
+}
+
+.background-image {
+    height: 5rem;
+    width: 5rem;
+}
+
+.background-image img {
+    height: 25rem;
+    width: 18rem;
+    background-size: cover;
+
+}
+
+
+
+.btn1 {
+    position: absolute;
+    border: none;
+    top: 5rem;
+    left: 10rem;
+    bottom: 0.5rem;
+    padding: 2px;
+    width: 9rem;
+    height: 3rem;
+    border-radius: 12px;
+    background-color: rgb(228, 72, 85);
+}
+
+.btn1:hover {
+    background-color: rgb(237, 179, 179);
+    color: black;
+}
+
+.btn1 a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: white;
+
+}
+
+.btn1 a:hover {
+    color: black;
+}
+
+.xyz {
+    height: 4.2rem;
+    width: 4.3rem;
+    border-radius: 50%;
+    background-color: rgb(255, 200, 0);
+    border: none;
+    font-size: 1.7rem;
+}
