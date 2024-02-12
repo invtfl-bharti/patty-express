@@ -87,12 +87,14 @@ body {
 
 
 .main {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center; */
     padding-inline: 4rem;
     padding-top: 10rem;
-    /* position: relative; */
+    position: relative;
+    height: 100vh;
+    width: 100%;
 }
 
 
@@ -163,16 +165,22 @@ body {
 }
 
 .background-image {
-    height: 5rem;
-    width: 5rem;
+    position: absolute;
+
+    left: 60%;
+    height: 22rem;
+    width: 22rem;
+    border: 2px solid black;
 }
+
 
 .background-image img {
     height: 25rem;
-    width: 18rem;
+    width: 25rem;
     background-size: cover;
-
 }
+
+
 
 
 
