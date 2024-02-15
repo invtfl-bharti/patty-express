@@ -140,8 +140,8 @@ body {
     display: flex;
     justify-content: space-evenly;
     position: relative;
-    top: 4rem;
-    left: -8rem;
+    top: 1rem;
+    left: -25rem;
     height: auto;
 
 }
@@ -159,7 +159,7 @@ body {
 .offers p {
     font-size: 1.2rem;
     padding-right: 1rem;
-    padding-left: 3rem;
+    padding-left: 1rem;
     padding-block: 1rem;
 }
 
@@ -187,7 +187,7 @@ body {
     position: absolute;
     border: none;
     top: 5rem;
-    left: 10rem;
+    left: 8rem;
     bottom: 0.5rem;
     padding: 2px;
     width: 9rem;
