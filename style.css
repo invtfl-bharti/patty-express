@@ -194,12 +194,13 @@ body {
     height: 3rem;
     border-radius: 12px;
     background-color: rgb(228, 72, 85);
+    /* color: white; */
 }
 
-.btn1:hover {
+/* .btn1:hover {
     background-color: rgb(237, 179, 179);
     color: black;
-}
+} */
 
 .btn1 a {
     text-decoration: none;
@@ -208,8 +209,9 @@ body {
 
 }
 
-.btn1 a:hover {
-    color: black;
+.btn1:hover {
+    background-color: rgb(137, 24, 24);
+    color: white;
 }
 
 .xyz {
