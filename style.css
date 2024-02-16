@@ -124,9 +124,13 @@ body {
 }
 
 .heading-1 {
+    border: 2px solid black;
     font-size: 1.4rem;
     color: black;
+    width: 40%;
+    height: 5rem;
 }
+
 
 
 .btn1 {
