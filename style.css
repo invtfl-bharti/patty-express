@@ -68,6 +68,11 @@ body {
     text-decoration: underline;
 }
 
+.navbar .mid ul li a {
+    color: black;
+    text-decoration: none;
+}
+
 /* download app */
 .right .btn {
     background-color: rgb(228, 72, 85);
