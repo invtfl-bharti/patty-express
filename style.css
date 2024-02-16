@@ -124,10 +124,10 @@ body {
 }
 
 .heading-1 {
-    border: 2px solid black;
+margin-top: 1rem;
     font-size: 1.4rem;
     color: black;
-    width: 40%;
+    width: 50%;
     height: 5rem;
 }
 
@@ -173,18 +173,22 @@ body {
 }
 
 .background-image {
-    position: absolute;
+    position: relative;
+    top: -16rem;
+    left: 25%;
+    height: 30rem;
+    width: 28rem;
 
-    left: 60%;
-    height: 22rem;
-    width: 22rem;
     /* border: 2px solid black; */
 }
 
 
 .background-image img {
-    height: 25rem;
-    width: 25rem;
+    position: absolute;
+    top: -3rem;
+    left: -2rem;
+    height: 32rem;
+    width: 32rem;
     background-size: cover;
 }
 
