@@ -1,6 +1,15 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.heading {
+    height: 3rem;
+    width: 15rem;
+    background-color: red;
+    margin-left: 40%;
+    margin-top: 1rem;
+    text-align: center;
 }
 
