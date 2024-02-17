@@ -185,10 +185,10 @@ body {
 
 .background-image img {
     position: absolute;
-    top: -3rem;
-    left: -2rem;
-    height: 32rem;
-    width: 32rem;
+    top: -60%;
+    left: -4rem;
+    height: 45rem;
+    width: 45rem;
     background-size: cover;
 }
 
