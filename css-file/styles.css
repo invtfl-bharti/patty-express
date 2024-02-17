@@ -12,4 +12,11 @@ header {
     margin-top: 1rem;
     text-align: center;
 }
-
+.page-image{
+    height: 20rem;
+    width: 20rem;
+}
+.page-image img {
+    height: 18rem;
+    width: 18rem;
+}
