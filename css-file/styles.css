@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.heading {
+header {
     height: 3rem;
     width: 15rem;
     background-color: red;
